@@ -1,0 +1,33 @@
+# Bark color scheme for Ghostty
+# Original Base16 palette by https://github.com/if-not-nil
+# Maintained by https://github.com/snowlock-dev
+
+background   = 101010
+foreground   = d0d0d0
+cursor-color = d0d0d0
+selection-background = 2b2b2b
+selection-foreground = 101010
+
+palette = 0=#101010
+palette = 1=#ab4642
+palette = 2=#a1b56c
+palette = 3=#f7ca88
+palette = 4=#7cafc2
+palette = 5=#ba8baf
+palette = 6=#86c1b9
+palette = 7=#d0d0d0
+palette = 8=#505050
+palette = 9=#ab4642
+palette = 10=#a1b56c
+palette = 11=#f7ca88
+palette = 12=#7cafc2
+palette = 13=#ba8baf
+palette = 14=#86c1b9
+palette = 15=#e0e0e0
+
+palette = 16=#dc9656
+palette = 17=#a16946
+palette = 18=#202020
+palette = 19=#2b2b2b
+palette = 20=#b0b0b0
+palette = 21=#fafafa
