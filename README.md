@@ -2,6 +2,9 @@
 
 [Bark](https://github.com/if-not-nil/bark) is a theme created by [@if-not-nil](https://github.com/if-not-nil) for Kitty & Vim/Neovim. This repo contains my ports for `lite-xl` and `ghostty`.
 
+<img width="1280" alt="bark in lite-xl" src="https://github.com/user-attachments/assets/123b4ee7-9f1a-4830-b697-9454552f9322" />
+
+
 The colors were adapted from [bark.yaml](https://github.com/if-not-nil/bark/blob/main/bark.yaml)
 
 ## setup
