@@ -1,3 +1,5 @@
+--mod-version:3
+
 -- Bark color scheme for Lite XL
 -- Original Base16 palette by https://github.com/if-not-nil
 -- Maintained by https://github.com/snowlock-dev
